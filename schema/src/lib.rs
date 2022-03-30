@@ -40,7 +40,7 @@ pub mod imaging;
 pub mod media;
 //pub mod media2;
 pub mod provisioning;
-//pub mod ptz;
+pub mod ptz;
 pub mod receiver;
 pub mod recording;
 pub mod replay;
